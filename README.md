@@ -26,9 +26,9 @@ In your Gmail account, enable the option "Allow less secure apps". This can be f
 2. **Edit the Script**:
 
 Open send_email.py and replace the placeholders with your information:
-   your_email@gmail.com: Your Gmail address.
-   your_password: Your Gmail password.
-   recipient_email@gmail.com: The recipient's email address.
+- your_email@gmail.com: Your Gmail address.
+- your_password: Your Gmail password.
+- recipient_email@gmail.com: The recipient's email address.
 
 3. **Run the Script**:
 
