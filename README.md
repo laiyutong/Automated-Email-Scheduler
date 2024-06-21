@@ -49,9 +49,11 @@ python send_email.py
 python send_email.py  
 ```
 
-This script will automatically send an email to the specified recipient every day at 9 AM. You can modify the schedule time and email content as needed.
+This script will automatically send an email to the specified recipient every day at 9 AM. 
+You can modify the schedule time and email content as needed.
 
 ## More Secure Options
  
-For security reasons, it is recommended to use an app-specific password or OAuth 2.0 for authentication. You can refer to Google's official documentation for detailed steps on how to set this up.
+For security reasons, it is recommended to use an app-specific password or OAuth 2.0 for authentication. 
+You can refer to Google's official documentation for detailed steps on how to set this up.
 
